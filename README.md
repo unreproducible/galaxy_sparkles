@@ -12,5 +12,5 @@ There's two main goals for this board:
 There is no getting started guide yet, I don't even have hardware back yet.
 
 # License
-(C) John 'Warthog9' HAwley
+(C) John 'Warthog9' Hawley
 CC-BY-SA 4.0
